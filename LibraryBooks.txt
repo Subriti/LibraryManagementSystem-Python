@@ -1,0 +1,10 @@
+Harry Potter,JK Rowling,0,$2
+Start With Why,Simon Sinek,20,$1.5
+Fear of Flying,Erica Jong,20,$3
+Letting Go,Philip Roth,10,$1.5
+Little Women,Louisa Alcott,15,$3
+Charlotte's Web,E.B. White,10,$2
+Invisible Man,H.G. Wells,20,$2
+My Truth,Indira Gandhi,10,$1
+Time Machine,H.G Wells,20,$2
+The Godfather,Mario Puzo,20,$2
